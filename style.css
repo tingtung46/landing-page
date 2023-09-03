@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;900&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    font: 18px 'Roboto', sans-serif;
+    margin: 0;
+}
+
+/* Typography */
+.logo,
+.hero-content h1 {
+    color: #F9FAF8;
+}
+
+.link,
+.hero-content p {
+    color: #E5E7EB;
+}
+
+.logo {
+    font-size: 24px;
+}
+
+.hero-content h1 {
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.container h2 {
+    font-size: 36px;
+    font-weight: 800;
+}
+
+.quote p {
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.quote .person-name {
+    font-size: 18px;
+    font-weight: 700;
+    text-align: right;
+}
+
+.sign-up h3 {
+    color: #F9FAF8;
+}
+
+.btn {
+    color: #F9FAF8;
+}
+
+.footer p {
+    color: #F9FAF8;
+}
